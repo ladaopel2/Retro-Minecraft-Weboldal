@@ -1,2 +1,7 @@
-# Retro-Minecraft-Weboldal
-Ez a Retro Minecraft szerver weboldal verziói
+# Webprogramozási projekt 2026
+
+Projekt neve: **Minecraft szerver weboldalának készítése**
+
+Csapattagok:
+- Bányai Levente
+- László Dániel
