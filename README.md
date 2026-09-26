@@ -1,6 +1,6 @@
 # Webprogramozási projekt 2026
 
-Projekt neve: **Minecraft szerver weboldalának készítése**
+Projekt témája: **egy Minecraft szerver weboldalának elkészítése**
 
 Csapat neve: **OLM Group**
 
